@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class CustomPositioned extends StatelessWidget {
-  const CustomPositioned({super.key, required this.child, this.size = 100});
+  const CustomPositioned({super.key, required this.child, this.size = 80});
   final Widget child;
   final double size;
   @override
