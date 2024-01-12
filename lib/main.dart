@@ -1,4 +1,4 @@
-import 'package:animacion_flutter_2024/src/screen/onboding/onboding_screen.dart'; // TODO: Importa la pantalla de bienvenida personalizada
+import 'package:animacion_flutter_2024/src/screen/onboding/onboding_screen.dart';
 import 'package:flutter/material.dart'; // TODO: Importa el paquete de Flutter
 
 void main() => runApp(
